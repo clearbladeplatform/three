@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,three",
+    "logging_enabled": "false",
+    "name": "threeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "threeSmokeTest.js"
+}
